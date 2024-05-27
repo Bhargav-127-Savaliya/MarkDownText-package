@@ -1,13 +1,20 @@
 # MarkDownText
-NPM package for **Mark Down Text**.
+NPM package for ``Mark Down Text``
 
-## How import and use 
-``` import MarkDownText from 'markdown-text' ```
-``` <MarkDownText data={string} bold={true} italic={true} underline={true} /> ```
 
- <!-- IMAGE :
-![GeeksForGeeks Logo](
-https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png)
+## How to import 
 
-    LINK :
-[GeeksForGeeks](https://www.geeksforgeeks.org/) -->
+```
+import MarkDownText from "markdown-text"
+```
+
+## How to use package 
+
+```
+<MarkDownText data={data} bold={true} italic={true} underline={true} />
+```
+
+
+## Links to demo repo
+
+You may be using [Markdown Demo Repo](https://github.com/Bhargav-127-Savaliya/how-to-use-MarkDownText-package.git).
